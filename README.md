@@ -1,4 +1,4 @@
-![Logo](https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/1.PNG)
+![Investo Logo](https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/1.PNG)
 
 # Investo — AI & ML Module
 
@@ -115,14 +115,14 @@ On project submission, a background job computes graph features (community, cent
 ## 🖥️ Snapshots
 
 <p align="center">
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/1.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/2.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/3.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/4.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/5.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/6.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/7.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/8.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/9.PNG" width="800" height="500"/>
-  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/11.PNG" width="800" height="500"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/1.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/2.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/3.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/4.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/5.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/6.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/7.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/8.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/9.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/Mohab-DataAnalyst/Investo/main/Snapshots/11.PNG" width="800"/>
 </p>
