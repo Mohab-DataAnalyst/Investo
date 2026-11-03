@@ -1,6 +1,8 @@
+![Logo](https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/1.PNG)
+
 # Investo — AI & ML Module
 
-AI/ML backend for **Investo**, a digital investment platform that connects SME entrepreneurs (Egypt-focused) with investors. It scores startups, predicts funding, recommends startups to investors, serves analytics, and answers investor questions through a RAG chatbot.
+AI/ML backend for my graduation project **Investo**, a digital investment platform that connects SME entrepreneurs (Egypt-focused) with investors. It scores startups, predicts funding, recommends startups to investors, serves analytics, and answers investor questions through a RAG chatbot.
 
 ## Features
 
@@ -92,7 +94,6 @@ On project submission, a background job computes graph features (community, cent
 ## Project layout
 
 ```
-.                  # SQL loaders: startups, investors, interactions
 ├── Success Model/
 │   ├── success_model.py          # training
 │   └── success_api.py            # serving
@@ -111,4 +112,17 @@ On project submission, a background job computes graph features (community, cent
     └── rag_chatbot_api.py
 ```
 
+## 🖥️ Snapshots
 
+<p align="center">
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/1.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/2.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/3.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/4.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/5.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/6.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/7.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/8.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/9.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Investo/tree/main/Snapshots/11.PNG" width="800" height="500"/>
+</p>
